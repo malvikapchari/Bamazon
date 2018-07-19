@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvikapchari/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malvikapchari/Bamazon/issues"
+  },
+  "homepage": "https://github.com/malvikapchari/Bamazon#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "chalk": "^2.4.1",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  }
+}

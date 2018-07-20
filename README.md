@@ -42,3 +42,5 @@ Pictures included:
 The first and second pictures include the first few prompts, displaying the table, items, and price, and asks the user how many of a certain item he/she wants. 
 Also shows if the user inputs a number greater than the total items available
 The last image shows the updated database
+
+
